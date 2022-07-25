@@ -1,0 +1,17 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.etchASketch{
+    display: flex;
+}
+button{
+    height: 100px;
+}
+.gridContainer{
+    border: 1px solid black;
+    height: 962px;
+    width: 962px;
+    display: flex;
+}
